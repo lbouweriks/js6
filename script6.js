@@ -28,4 +28,4 @@ function average(number1, number2, number3, number4, number5){
     return Math.round((number1+number2+number3+number4+number5)/5)
 }
 
-console.log(average(10, 9, 2, 5, 6))
+average(10, 9, 2, 5, 6)
